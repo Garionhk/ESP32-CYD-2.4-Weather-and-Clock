@@ -2,7 +2,9 @@
 
 A comprehensive weather station and digital clock built for the **Cheap Yellow Display (CYD)** 2.4" ESP32 module. This project displays real-time weather data and transitions between a detailed weather dashboard and a large, high-visibility clock.
 
-![Project Preview](https://raw.githubusercontent.com/witnessmenow/ESP32-Cheap-Yellow-Display/main/images/cyd.jpg) *(Example CYD Hardware)*
+![Project Preview](https://github.com/Garionhk/ESP32-CYD-2.4-Weather-and-Clock/blob/main/cyd2.4a_clean.jpg) 
+![Project Preview](https://github.com/Garionhk/ESP32-CYD-2.4-Weather-and-Clock/blob/main/cyd2.4b_clean.jpg) 
+*(Example CYD Hardware)*
 
 ## ✨ Features
 
