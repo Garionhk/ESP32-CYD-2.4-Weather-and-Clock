@@ -1,4 +1,4 @@
-# Temperature with Time - Cheap Yellow Display (ESP32-2432S028)
+# Temperature with Time - Cheap Yellow Display (ESP32-2432S024)
 
 A comprehensive weather station and digital clock built for the **Cheap Yellow Display (CYD)** 2.4" ESP32 module. This project displays real-time weather data and transitions between a detailed weather dashboard and a large, high-visibility clock.
 
@@ -16,7 +16,7 @@ A comprehensive weather station and digital clock built for the **Cheap Yellow D
 
 ## 🛠 Hardware Requirements
 
-- **Device**: ESP32-2432S028 (Cheap Yellow Display) 2.4"
+- **Device**: ESP32-2432S024 (Cheap Yellow Display) 2.4"
 - **Internal Components used**:
   - TFT Display (ILI9341 compatible)
   - Touch Screen (XPT2046)
